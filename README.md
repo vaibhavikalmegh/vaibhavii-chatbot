@@ -89,9 +89,10 @@ project-root/
 
 ---
 
-## 🤝 Credits
-
-**Created with ❤️ by Vaibhavi Kalmegh**  
+## Author
+Vaibhavi Sanjay Kalmegh
+📍 G.V.I.S.H., Amravati
+🎓 M.Sc. in Statistics (2023) 
 Follow me on:  
 🔗 [GitHub](https://github.com/vaibhavikalmegh)  
 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavikalmegh18)
