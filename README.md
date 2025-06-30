@@ -74,7 +74,7 @@ project-root/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/vaibhavi-chatbot.git
+   git clone https://github.com/vaibhavikalmegh/vaibhavii-chatbot.git
    cd vaibhavi-chatbot
    ```
 
